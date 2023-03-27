@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="8" failures="0" errors="0" time="3.422">
+  <testsuite name="GPX parser" errors="0" failures="0" skipped="0" timestamp="2023-03-27T03:05:00" time="3.351" tests="8">
+    <testcase classname="GPX parser should parse metadata" name="GPX parser should parse metadata" time="0.003">
+    </testcase>
+    <testcase classname="GPX parser should parse waypoints" name="GPX parser should parse waypoints" time="0.001">
+    </testcase>
+    <testcase classname="GPX parser should parse tracks" name="GPX parser should parse tracks" time="0.045">
+    </testcase>
+    <testcase classname="GPX parser should parse routes" name="GPX parser should parse routes" time="0.041">
+    </testcase>
+    <testcase classname="GPX parser GetElementValue should be null" name="GPX parser GetElementValue should be null" time="0.002">
+    </testcase>
+    <testcase classname="GPX parser should compute slopes" name="GPX parser should compute slopes" time="0.001">
+    </testcase>
+    <testcase classname="GeoJSON exporter should export correct metadata" name="GeoJSON exporter should export correct metadata" time="0.001">
+    </testcase>
+    <testcase classname="GeoJSON exporter should export correct features" name="GeoJSON exporter should export correct features" time="0.046">
+    </testcase>
+  </testsuite>
+</testsuites>

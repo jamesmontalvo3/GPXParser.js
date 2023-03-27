@@ -15,10 +15,10 @@
             <year>2020</year>
             <license>MIT</license>
         </copyright>
-        <link href="http://example.com">
+        <beef href="http://example.com">
             <text>Author website</text>
             <type>Web</type>
-        </link>
+        </beef>
         <time>2020-01-12T21:32:52</time>
         <keywords>Demo, gpx, file</keywords>
         <bounds minlat="49.12965660728301" minlon="-1.5521714646550901" maxlat="45.85097922514941"
@@ -30,6 +30,7 @@
         <ele>35</ele>
         <time>2020-02-02T07:54:30Z</time>
         <cmt>Warning</cmt>
+        <sym>Fishing Hot Spot Facility</sym>
     </wpt>
     <wpt lat="47.235331031612" lon="-1.5482325613225">
         <name>Pont de la Tortière</name>
